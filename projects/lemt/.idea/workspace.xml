@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74c8dbf7-7508-4a6f-b359-20ae0c8b4ec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dominion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dominion/unittest_Dominion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dominion/testDominion1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dominion/testDominion1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dominion/testUtility.py" beforeDir="false" afterPath="$PROJECT_DIR$/dominion/testUtility.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1WUNWR6i4LQRFOmWf8COslY1ipA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dominion" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dominion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Nosetests in unittest_Dominion.py">
+    <configuration name="testDominion1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lemt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dominion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dominion/testDominion1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testDominion2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lemt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dominion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dominion/testDominion2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for unittest_Dominion.test_react" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="lemt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dominion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittest_Dominion.test_react&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests in unittest_Dominion.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="lemt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dominion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/dominion/unittest_Dominion.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Nosetests in unittest_Dominion.py" />
+        <item itemvalue="Python.testDominion1" />
+        <item itemvalue="Python tests.Nosetests for unittest_Dominion.test_react" />
+        <item itemvalue="Python.testDominion2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74c8dbf7-7508-4a6f-b359-20ae0c8b4ec4" name="Default Changelist" comment="" />
+      <created>1579200244571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579200244571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="124" key="#Nosetests_in_unittest_Dominion.py" timestamp="1580352038405">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="675" y="124" key="#Nosetests_in_unittest_Dominion.py/0.23.1680.984@0.23.1680.984" timestamp="1580352038405" />
+    <state x="145" y="123" width="1406" height="744" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580447229167">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="145" y="123" width="1406" height="744" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.984@0.23.1680.984" timestamp="1580447229167" />
+    <state x="668" y="392" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1580448970952">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="668" y="392" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.23.1680.984@0.23.1680.984" timestamp="1580448970952" />
+    <state width="1585" height="252" key="GridCell.Tab.0.bottom" timestamp="1580537276457">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="1585" height="252" key="GridCell.Tab.0.bottom/0.23.1680.984@0.23.1680.984" timestamp="1580537276457" />
+    <state width="1585" height="252" key="GridCell.Tab.0.center" timestamp="1580537276457">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="1585" height="252" key="GridCell.Tab.0.center/0.23.1680.984@0.23.1680.984" timestamp="1580537276457" />
+    <state width="1585" height="252" key="GridCell.Tab.0.left" timestamp="1580537276456">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="1585" height="252" key="GridCell.Tab.0.left/0.23.1680.984@0.23.1680.984" timestamp="1580537276456" />
+    <state width="1585" height="252" key="GridCell.Tab.0.right" timestamp="1580537276457">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="1585" height="252" key="GridCell.Tab.0.right/0.23.1680.984@0.23.1680.984" timestamp="1580537276457" />
+    <state width="1585" height="312" key="GridCell.Tab.1.bottom" timestamp="1580537276443">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="1585" height="312" key="GridCell.Tab.1.bottom/0.23.1680.984@0.23.1680.984" timestamp="1580537276443" />
+    <state width="1585" height="312" key="GridCell.Tab.1.center" timestamp="1580537276442">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="1585" height="312" key="GridCell.Tab.1.center/0.23.1680.984@0.23.1680.984" timestamp="1580537276442" />
+    <state width="1585" height="312" key="GridCell.Tab.1.left" timestamp="1580537276442">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="1585" height="312" key="GridCell.Tab.1.left/0.23.1680.984@0.23.1680.984" timestamp="1580537276442" />
+    <state width="1585" height="312" key="GridCell.Tab.1.right" timestamp="1580537276442">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="1585" height="312" key="GridCell.Tab.1.right/0.23.1680.984@0.23.1680.984" timestamp="1580537276442" />
+    <state x="352" y="174" key="SettingsEditor" timestamp="1580282474806">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="352" y="174" key="SettingsEditor/0.23.1680.984@0.23.1680.984" timestamp="1580282474806" />
+    <state x="528" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1580351992108">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="528" y="367" key="com.intellij.ide.util.TipDialog/0.23.1680.984@0.23.1680.984" timestamp="1580351992108" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1580356784561">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1680.984@0.23.1680.984" timestamp="1580356784561" />
+    <state x="963" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1580351320896">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="963" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.984@0.23.1680.984" timestamp="1580351320896" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dominion/unittest_Dominion.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
