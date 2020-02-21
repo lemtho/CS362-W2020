@@ -121,11 +121,11 @@ class TestPlayer(TestCase):
         # test for deck to replenish, add cards to discard pile
         self.player.deck = []
         self.assertEqual(0, len(self.player.deck))
-        self.player.discard.append(Dominion.Cellar)
-        self.player.discard.append(Dominion.Cellar)
-        self.player.discard.append(Dominion.Cellar)
-        self.player.discard.append(Dominion.Cellar)
-        self.player.discard.append(Dominion.Cellar)
+        self.player.discard.append(Dominion.Cellar())
+        self.player.discard.append(Dominion.Cellar())
+        self.player.discard.append(Dominion.Cellar())
+        self.player.discard.append(Dominion.Cellar())
+        self.player.discard.append(Dominion.Cellar())
 
         # draw card, total in hand should equal to 7
         self.player.draw()

@@ -7,12 +7,11 @@ def inputChar():
 	return random.choice(random_char)
 
 def inputString():
-	random_num = random.choice((1,2))
-
-	if (random_num == 1):
+	# random_num = random.choice((1,2))
+	#if (random_num == 1):
 		return ''.join(random.choice(string.ascii_lowercase) for _ in range(5))
-	else:
-		return ''.join(random.choice(string.ascii_lowercase) for _ in range(9))
+	# else:
+	#	return ''.join(random.choice(string.ascii_lowercase) for _ in range(9))
 
 def testme():
 	tcCount = 0
@@ -25,7 +24,7 @@ def testme():
 		print("Iteration " + str(tcCount) + ": c = " + c + ", s = " + s + ", state = " + str(state))
 
 		if (c == '[' and state == 0):
-			state =1
+			state = 1
 		if (c == '(' and state == 1):
 			state = 2
 		if (c == '{' and state == 2):
@@ -45,7 +44,7 @@ def testme():
 
 		if (s[0] == 'r' and s[1] == 'e' and s[2] == 's' and s[3] == 'e' and s[4] == 't' and state == 9):
 			print("error ")
-			break
+			exit(200)
 
 def main():
 	testme()
